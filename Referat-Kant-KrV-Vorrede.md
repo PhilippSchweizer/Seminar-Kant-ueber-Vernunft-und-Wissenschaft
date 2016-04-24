@@ -120,7 +120,17 @@ Allgemein hält Kant den Erfolg für ein Kriterium für Wissenschaftlichkeit, bz
 
 
 ## 3.1 Logik
-Die Logik ist für Kant *das* Beispiel einer sicheren Wissenschaft, weil sie seit Aristoteles "keinen Schritt rückwärts hat tun dürfen" und "auch bis jetzt keinen Schritt vorwärts hat tun können, und also allem Ansehen nach geschlossen und vollendet zu sein scheint." (B\,viii) Förster [-@forster1998, 47] merkt an, dass "man spätestens seit Freges *Begriffsschrift* (1879) nicht mehr behaupten" kann, die Logik sei vollendet. Die Frage ist also, was unser heutiges Wissens für das Argument Kants bedeutet oder bedeuten kann. Die Geschlossenheit scheint denn auch gar nicht das Wesentliche für Kant zu sein. Die Logik sei nämlich dadurch bestimmt, dass sie "nichts als die formalen Regeln alles Denkens [...] ausführlich darlegt und strenge beweiset." (B\,xiii\,f.)
+Die Logik ist für Kant *das* Beispiel einer sicheren Wissenschaft, weil sie seit Aristoteles "keinen Schritt rückwärts hat tun dürfen" und "auch bis jetzt keinen Schritt vorwärts hat tun können, und also allem Ansehen nach geschlossen und vollendet zu sein scheint." (B\,viii) Förster [-@forster1998, 47] merkt an, dass "man spätestens seit Freges *Begriffsschrift* (1879) nicht mehr behaupten" kann, die Logik sei vollendet. Die Frage ist also, was unser heutiges Wissens für das Argument Kants bedeutet oder bedeuten kann. Die Geschlossenheit scheint denn auch gar nicht das Wesentliche für Kant zu sein. Die Logik sei nämlich dadurch bestimmt, dass sie "nichts als die formalen Regeln alles Denkens [...] ausführlich darlegt und strenge beweiset." (B\,xiii\,f.) Das heißt für Kant, in der Logik hat "der Verstand es mit nichts weiter, als sich selbst und seiner Form zu thun". An dieser Stelle verwendet Kant die Begriffe "Verstand" und "Vernunft" offensichtlich synonym, denn gleich im nächsten Satz ist ja davon die Rede, dass es für die Vernunft ungleich schwerer sei, "den sicheren Weg der Wissenschaft einzuschlagen", wenn sie im Gegensatz zur Logik sich nicht nur mit sich selbst sondern auch mit Objekten auseinandersetzt. Die Logik macht deshalb "nur den Vorhof der Wissenschaften" aus. Die Logik dient zur Beurteilung von Kenntnissen (Aussagen über Welt z.B.?) aber nicht zu ihrer Erwerbung.
+
+Formale Logik als "reine Vernunftlehre" und unterschieden von der
+
+angewandten Logik (B 76, laut korpora)
+
+"Für diese Disziplin benutzt Kant dann auch den Terminus 'formale Logik' (KrV A\,131\,/\,B\,170), der sich bis heute durchgesetzt hat.)" (Kant-Lexikon, Lemma *Logik*, S. 1422)
+
+- Objekte der Erkenntnis?
+- Verstand?
+- "berechtigt, ja verbunden"? soll heißen verpflichtet, berufen?
 
 ## 3.2 Mathematik
 ## 3.3 Physik bzw. Naturwissenschaften
