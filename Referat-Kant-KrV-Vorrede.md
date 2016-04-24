@@ -3,7 +3,7 @@ title: Referat zur Vorrede zur zweiten Auflage der Kritik der reinen Vernunft
 author: Philipp Schweizer
 date: 2016-04-19
 lang: de-DE
-bibliography: D:/OneDrive/mainupdated.bib
+bibliography: mainupdated.bib
 header-includes:
   - \usepackage[german=guillemets,threshold=3]{csquotes}
   - \usepackage{libertine}
@@ -120,13 +120,11 @@ Allgemein hält Kant den Erfolg für ein Kriterium für Wissenschaftlichkeit, bz
 
 
 ## 3.1 Logik
-Die Logik ist für Kant *das* Beispiel einer sicheren Wissenschaft, weil sie seit Aristoteles "keinen Schritt rückwärts hat tun dürfen" und "auch bis jetzt keinen Schritt vorwärts hat tun können, und also allem Ansehen nach geschlossen und vollendet zu sein scheint." (B\,viii) Förster [-@forster1998, 47] merkt an, dass "man spätestens seit Freges *Begriffsschrift* (1879) nicht mehr behaupten" kann, die Logik sei vollendet. Die Frage ist also, was unser heutiges Wissens für das Argument Kants bedeutet oder bedeuten kann. Die Geschlossenheit scheint denn auch gar nicht das Wesentliche für Kant zu sein. Die Logik sei nämlich dadurch bestimmt, dass sie "nichts als die formalen Regeln alles Denkens [...] ausführlich darlegt und strenge beweiset." (B\,xiii\,f.) Das heißt für Kant, in der Logik hat "der Verstand es mit nichts weiter, als sich selbst und seiner Form zu thun". An dieser Stelle verwendet Kant die Begriffe "Verstand" und "Vernunft" offensichtlich synonym, denn gleich im nächsten Satz ist ja davon die Rede, dass es für die Vernunft ungleich schwerer sei, "den sicheren Weg der Wissenschaft einzuschlagen", wenn sie im Gegensatz zur Logik sich nicht nur mit sich selbst sondern auch mit Objekten auseinandersetzt. Die Logik macht deshalb "nur den Vorhof der Wissenschaften" aus. Die Logik dient zur Beurteilung von Kenntnissen (Aussagen über Welt z.B.?) aber nicht zu ihrer Erwerbung.
+Die Logik ist für Kant *das* Beispiel einer sicheren Wissenschaft, weil sie seit Aristoteles "keinen Schritt rückwärts hat tun dürfen" und "auch bis jetzt keinen Schritt vorwärts hat tun können, und also allem Ansehen nach geschlossen und vollendet zu sein scheint." (B\,viii) Förster [-@forster1998, 47] merkt an, dass "man spätestens seit Freges *Begriffsschrift* (1879) nicht mehr behaupten" kann, die Logik sei vollendet. Die Frage ist also, was unser heutiges Wissens für das Argument Kants bedeutet oder bedeuten kann. Die Geschlossenheit scheint denn auch gar nicht das Wesentliche für Kant zu sein.
 
-Formale Logik als "reine Vernunftlehre" und unterschieden von der
+Die Logik sei nämlich dadurch bestimmt, dass sie "nichts als die formalen Regeln alles Denkens [...] ausführlich darlegt und strenge beweiset." (B\,xiii\,f.) Das heißt für Kant, in der Logik hat "der Verstand es mit nichts weiter, als sich selbst und seiner Form zu thun". An dieser Stelle verwendet Kant die Begriffe "Verstand" und "Vernunft" offensichtlich synonym, denn gleich im nächsten Satz ist davon die Rede, dass es für die *Vernunft* ungleich schwerer sei, "den sicheren Weg der Wissenschaft einzuschlagen", wenn sie im Gegensatz zur Logik sich nicht nur mit sich selbst sondern auch mit Objekten (der Erkenntnis?) auseinandersetzt. Kant nennt die aristotelische Logik an anderer Stelle auch "formale Logik" (A\,131\,/\,B\,170) und "reine Vernunftlehre" (B\,76), eine Bezeichnung die sich bis heute gehalten hat. (vgl. Kant-Lexikon, Lemma *Logik*, S. 1422). Damit unterscheidet er sie von der "angewandten" (B\,76) oder "psychologischen Logik".
 
-angewandten Logik (B 76, laut korpora)
-
-"Für diese Disziplin benutzt Kant dann auch den Terminus 'formale Logik' (KrV A\,131\,/\,B\,170), der sich bis heute durchgesetzt hat.)" (Kant-Lexikon, Lemma *Logik*, S. 1422)
+Die formale Logik bildet "nur den Vorhof der Wissenschaften" und dient zur Beurteilung von Kenntnissen (Aussagen über Welt z.B.?) aber nicht zu ihrer Erwerbung. Für diese sind die "eigentlich und objectiv so genannten Wissenschaften" zu konsultieren. Damit diese vernünftig sein können, muss in ihnen "etwas a priori erkannt werden, und ihre Erkenntniß kann auf zweierlei Art auf ihren Gegenstand bezogen werden, entweder diesen und seinen Begriff (der anderweitig gegeben werden muß) bloß zu bestimmen, oder ihn auch wirklich zu machen. Die erste ist theoretische, die andere praktische Erkenntniß der Vernunft."
 
 - Objekte der Erkenntnis?
 - Verstand?
