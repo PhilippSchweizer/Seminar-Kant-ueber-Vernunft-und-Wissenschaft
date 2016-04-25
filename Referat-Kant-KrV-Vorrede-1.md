@@ -8,76 +8,30 @@ header-includes:
   - \usepackage[german=guillemets,threshold=3]{csquotes}
   - \usepackage{libertine}
 ---
-# Struktur und Ziel des Textes
 
-## 1. Absatz (B\,vii) *Gang einer Wissenschaft vs. Herumtappen*
-Kriterien für Unwissenschaftlichkeit (Herumtappen) bzw. für Wissenschaftlichkeit: kontinuierlicher Erkenntnisfortschritt.
-
-## 2. & 3. Absatz (B\,viii--ix) *Vernunft in der Logik*
-- Geschichte der Logik
-- warum ist die Logik "vernünftig"?
-- Warum ist sie eine Wissenschaft?
-
-## 4. Absatz (B\,ix--x) *Voraussetzungen der Vernunft*
-Wie können "sich Vorstellungen a priori und doch wahrheitsfähig auf einen Gegenstand beziehen"? --> "Wenn die Vorstellung den Gegenstand a priori bestimmt, oder wenn sie ihn wirklich macht." [vgl. @forster1998, 47] Das heißt, wenn es allein durch die Vorstellung "möglich ist, etwas *als einen Gegenstand zu erkennen*" (A92/B125).
-
-## 5. Absatz (B\,x) *Mathematik und Physik als die beiden theoretischen Erkenntnisse der Vernunft*
-
-## 6. Absatz (B\,x--xii) *Vernunft in der Mathematik*
-- In ihrer Geschichte gab es eine "Revolution der Denkart", vermutet Kant
-
-## 7. & 8. Absatz (B\,xii--xiv) *Vernunft in den Naturwissenschaften*
-- Baco von Verulam = Francis Bacon
-- noch nicht lange auf dem "Heeresweg der Wissenschaft", nur ca. 150 Jahre.
-- Galilei
-- Torricelli
+# Überblick über den Text
+**1\. Absatz** (B\,vii) *Gang einer Wissenschaft vs. Herumtappen*   
+**2\. & 3. Absatz** (B\,viii--ix) *Logik*   
+**4\. Absatz** (B\,ix--x) *Voraussetzungen der Vernunft*    
+Wie können "sich Vorstellungen a priori und doch wahrheitsfähig auf einen Gegenstand beziehen"? --> "Wenn die Vorstellung den Gegenstand a priori bestimmt, oder wenn sie ihn wirklich macht." [vgl. @forster1998, 47] Das heißt, wenn es allein durch die Vorstellung "möglich ist, etwas *als einen Gegenstand zu erkennen*" (A92/B125).    
+**5\. Absatz** (B\,x) *Mathematik und Physik als die beiden theoretischen Erkenntnisse der Vernunft*    
+**6\. Absatz** (B\,x--xii) *Mathematik*    
+**7\. & 8. Absatz** (B\,xii--xiv) *Naturwissenschaft*
 
 > "Die Vernunft muß mit ihren Prinzipien, nach denen allein übereinkommende Erscheinungen für Gesetze gelten können, in einer Hand, und mit dem Experiment, das sie nach jenen ausdachte, in der anderen, an die Natur gehen, zwar um von ihr belehrt zu werden, aber nicht in der Qualität eines Schülers, der sich alles vorsagen läßt, was der Lehrer will, sondern eines bestallten Richters, der die Zeugen nötigt auf die Fragen zu antworten, die er ihnen vorlegt." (B\,xiii)
 
-## 9. & 10. Absatz (B\,xiv--xv) *Der Zustand der Metaphysik*
-- bloßes Herumtappen bis heute
-- Kampfplatz
-- Warum ist die Metaphysik noch nicht auf dem Weg der Wissenschaft? Ein *Frage*absatz
+**9\. & 10. Absatz** (B\,xiv--xv) *Der Zustand der Metaphysik*    
+**11\. Absatz** (B\,xv--xviii) *Die kopernikanische Wende*
 
-## 11. Absatz (B\,xv--xviii) *Die Naturwissenschaften nachahmen*
-> "Man versuche es daher einmal, ob wir nicht in den Aufgaben der Metaphysik damit besser fortkommen, daß wir annehmen, die Gegenstände müssen sich nach unserem Erkenntnis richten, welches so schon besser mit der verlangten Möglichkeit einer Erkenntnis derselben a priori zusammenstimmt, die über Gegenstände, ehe sie uns gegeben werden, etwas festsetzen soll. Es ist hiemit eben so, als mit den ersten Gedanken des Copernicus bewandt, ..." (21, B xvi) 
+> "Man versuche es daher einmal, ob wir nicht in den Aufgaben der Metaphysik damit besser fortkommen, daß wir annehmen, die Gegenstände müssen sich nach unserem Erkenntnis richten, welches so schon besser mit der verlangten Möglichkeit einer Erkenntnis derselben a priori zusammenstimmt, die über Gegenstände, ehe sie uns gegeben werden, etwas festsetzen soll. Es ist hiemit eben so, als mit den ersten Gedanken des Copernicus bewandt, [...]" (B\,xvi) 
 
-## 12. Absatz (B\,xviii--xxii) *Veränderung der Denkart lässt "die Möglichkeit einer Erkenntnis a priori ... erklären"*
-
-Problem: man kommt nie über die Grenze möglicher Erfahrungen hinaus. "Aber hierin liegt eben das Experiment einer Gegenprobe der Wahrheit" der Aussage, dass die Vernunfterkenntnis a priori "nur auf Erscheinungen gehe, die Sache an sich selbst dagegen zwar als für sich wirklich, aber von uns unerkannt, liegen lasse."
-
-- das Unbedingte: die Vernunft verlangt danach, von allem Bedingten ausgehend. Weil die Vernunft das Bedingte kennt, kann sie auf das Unbedingte als existierend schließen (???)
-- Kant geht hier dialektisch vor und mir scheint, dass seinem Argument einiges abgewonnen werden kann. Wenn es mir bloß gelänge, es zu rekonstruieren.
-
-## 13. Absatz (B\,xxii--xxiv) *Kant über sein (bisheriges und künftiges) Projekt*
-- "Traktat von der Methode, nicht ein System der Wissenschaft selbst"
-- das Eigentümliche der spekulativen Vernunft
-- das Glück der Metaphysik gegenüber den anderen "Vernunftwissenschaften"
-
-## 14. Absatz (B\,xxiv--xxxi)*Ein Schatz für die Nachkommenschaft*
-- der negative Nutzen als positiver:. sich "mit der spekulativen Vernunft niemals über die Erfahrungsgrenze hinaus zu wagen"
-- durch die Begrenzung der spekulativen Vernunft wird dem reinen (praktischen) Vernunftgebrauch ein Hindernis aus dem Weg geräumt
-
-@forster1998 weißt auf die *Grundlegung zur Metaphysik der Sitten* (1785) als Grundlage für Kants "Darstellung des wahrhaft 'positiven' Nutzens der *Kritik*" hin.
-
-> "Dort hatte er in den ersten beiden Kapiteln durch Analyse des sittlichen Bewußtseins das 'oberste Prinzip der Moralität' (IV 392) aufgesucht und im kategorischen Imperativ gefunden." [@forster1998, 51f.]
-
-- Gott, Freiheit (Willensfreiheit) und Unsterblichkeit
-
-> "Ich musste also das Wissen aufheben, um zum Glauben Platz zu bekommen, und der Dogmatism der Metaphysik, d.i. das Vorurteil, in ihr ohne Kritik der reinen Vernunft fortzukommen, ist die wahre Quelle alles der Moralität widerstreitenden Unglaubens, der jederzeit gar sehr dogmatisch ist." (B xxx)
-
-- Kant über soziale (pädagogische) Bedeutung seines Werks
-- Verteidigung von Sittlichkeit und Religion
-- der Philosophie "allen nachteiligen Einfluß" nehmen.
-
-## 15. Absatz (B\,xxxi--xxxv) *Monopol der Schulen und Interesse der Menschen*
+**12\. Absatz** (B\,xviii--xxii) *Einschränkung aller theoretischen Erkenntnis auf mögliche Erfahrung und der positive Nutzen dieser Einschränkung*    
+**13\. Absatz** (B\,xxii--xxiv) *Kant über sein Projekt*    
+**14\. Absatz** (B\,xxiv--xxxi)*Begrenzung der spekulativen Vernunft als Befreiungsschlag für den "reinen (praktischen) Vernunftgebrauch"*    
+**15\. Absatz** (B\,xxxi--xxxv) *Monopol der Schulen und Interesse der Menschen*
 Kant verteidigt sein Unterfangen. Es ist nicht gegen das Interesse der Menschen an "letzten Dingen" gerichtet, sondern gegen das "Monopol der Schulen" (in der Philosophie), die nur dogmatische Behauptungen über diese Dinge zustande bringen. Kant verspricht, die menschliche Wissbegierde zur völligen Befriedigung zu bringen.
-
-## 16. Absatz (B\,xxxv--xxxvii) *dogmatisches Verfahren vs. Dogmatismus*
-- Christian Wolff (1579-1754)
-
-
-## 17. Absatz (B\,xxxvii--xliv) *Unterschied zur ersten Auflage & was zu tun bleibt*
+**16\. Absatz** (B\,xxxv--xxxvii) *dogmatisches Verfahren vs. Dogmatismus*    
+**17\. Absatz** (B\,xxxvii--xliv) *Unterschied zur ersten Auflage & was zu tun bleibt*
 
 # 1. Einleitung (~2 Min.)
 - historisch über die KrV
@@ -144,6 +98,12 @@ Worin unterscheidet sich nun die Metaphysik von der formalen Logik? In der Logik
 
 
 # 4. Offene und Diskussionsfragen (~2 Min.)
+
+# 5. Miszellen
+In Absatz 13 (B\,xxiv) verwendet Kant den Ausspruch "Nil actum reputans, si quid superesset agendum". Dieser stammt von Marcus Annaeus Lucanus (Lukan) und lautet eigentlich "Nil actum credens cum quid superesset agendum". Das heißt:
+
+> "Nichts für erledigt ansehend, wenn noch etwas zu tun übrig wäre." - Der Bürgerkrieg oder Pharsalia II, 657
+
 
 # Bibliographie
 

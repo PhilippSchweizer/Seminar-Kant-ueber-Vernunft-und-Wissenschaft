@@ -8,7 +8,11 @@ header-includes:
   - \usepackage[german=guillemets,threshold=3]{csquotes}
   - \usepackage{libertine}
 ---
-# Struktur und Ziel des Textes
+# 1. Einleitung (~2 Min.)
+- historisch über die KrV
+- philologisch über die Krv
+
+# 2. Struktur und Ziel des Textes (~4 Min.)
 
 ## 1. Absatz (B\,vii) *Gang einer Wissenschaft vs. Herumtappen*
 Kriterien für Unwissenschaftlichkeit (Herumtappen) bzw. für Wissenschaftlichkeit: kontinuierlicher Erkenntnisfortschritt.
@@ -54,7 +58,8 @@ Problem: man kommt nie über die Grenze möglicher Erfahrungen hinaus. "Aber hie
 - das Eigentümliche der spekulativen Vernunft
 - das Glück der Metaphysik gegenüber den anderen "Vernunftwissenschaften"
 
-## 14. Absatz (B\,xxiv--xxxi)*Ein Schatz für die Nachkommenschaft*
+## 14. Absatz (B\,xxiv--xxxi)*Begrenzung der spekulativen Vernunft als Befreiungsschlag für den "reinen (praktischen) Vernunftgebrauch"*
+- ein Schatz für die Nachkommenschaft
 - der negative Nutzen als positiver:. sich "mit der spekulativen Vernunft niemals über die Erfahrungsgrenze hinaus zu wagen"
 - durch die Begrenzung der spekulativen Vernunft wird dem reinen (praktischen) Vernunftgebrauch ein Hindernis aus dem Weg geräumt
 
@@ -74,19 +79,11 @@ Problem: man kommt nie über die Grenze möglicher Erfahrungen hinaus. "Aber hie
 Kant verteidigt sein Unterfangen. Es ist nicht gegen das Interesse der Menschen an "letzten Dingen" gerichtet, sondern gegen das "Monopol der Schulen" (in der Philosophie), die nur dogmatische Behauptungen über diese Dinge zustande bringen. Kant verspricht, die menschliche Wissbegierde zur völligen Befriedigung zu bringen.
 
 ## 16. Absatz (B\,xxxv--xxxvii) *dogmatisches Verfahren vs. Dogmatismus*
-- Christian Wolff (1579-1754)
-
 
 ## 17. Absatz (B\,xxxvii--xliv) *Unterschied zur ersten Auflage & was zu tun bleibt*
 
-# 1. Einleitung (~2 Min.)
-- historisch über die KrV
-- philologisch über die Krv
 
-# 2. Struktur des Textes (~4 Min.)
-- Zusammenfassung der Absätze, wie oben geschehen
-
-# 3. Der Begriff der Vernunft (~7 Min.)
+# 3. Der Begriff der Vernunft für Logik, Mathematik und Naturwissenschaft (~7 Min.)
 Genaue Analyse der Begriffsverwendung durch Kant. Wie verwendet Kant den Begriff der Vernunft (bzw. den der Wissenschaft) jeweils in Bezug auf Logik, Mathematik, Physik (Naturwissenschaften) und Metaphysik? Worin besteht der unterschied dieser drei zur Metaphysik? Was ist der Unterschied (jeweils) zwischen "dem sicheren Gang einer Wissenschaft" und dem "bloßen Herumtappen"?
 
 Die Vernunft tritt in der Vorrede als Akteur auf: sie sucht nach dem "sicheren Weg der Wissenschaften" auf unterschiedlichen Feldern der Erkenntnis. Auf dem Feld der Logik *beschäftigt* sie sich mit sich selbst, auf anderen hat sie mit Objekten zu schaffen. Erkenntnis ist Tätigkeit der Vernunft und es gibt sie in zwei Formen: theoretisch und praktisch.
@@ -96,38 +93,30 @@ Allgemein hält Kant den Erfolg für ein Kriterium für Wissenschaftlichkeit, bz
 
 
 ## 3.1 Logik
-Die Logik ist für Kant *das* Beispiel einer sicheren Wissenschaft, weil sie seit Aristoteles "keinen Schritt rückwärts hat tun dürfen" und "auch bis jetzt keinen Schritt vorwärts hat tun können, und also allem Ansehen nach geschlossen und vollendet zu sein scheint." (B\,viii) Förster [-@forster1998, 47] merkt kritisch an, dass "man spätestens seit Freges *Begriffsschrift* (1879) nicht mehr behaupten" kann, die Logik sei vollendet. Die Frage ist also, was unser heutiges Wissens für das Argument Kants bedeutet oder bedeuten kann.
- Die Geschlossenheit scheint denn auch gar nicht das Wesentliche für Kant zu sein.
+Die Logik, ist dadurch bestimmt, dass sie "nichts als die formalen Regeln alles Denkens [...] ausführlich darlegt und strenge beweiset." (B\,xiii\,f.) Das heißt für Kant, in der Logik hat "der Verstand es mit nichts weiter, als sich selbst und seiner Form zu tun" (ebd.). Kant geht davon aus, dass sich unser Denken in a priorisches und empirisches Denken unterteilen lässt und dass es in beiden Fällen (den gleichen) formalen Regeln unterworfen ist. Die Logik ist die Wissenschaft dieser formalen Regeln des Denkens oder die Selbstreflexion des Verstandes bzw. der Vernunft (vgl. B\,x). Sie ist "reine Vernunftlehre" (B\,76). Deshalb verwendet Kant auch den Begriff "formale Logik" (A131&#47;B170), eine Bezeichnung die sich bis heute gehalten hat. (vgl. Kant-Lexikon, Lemma *Logik*, S. 1422) Damit unterscheidet er sie von der "angewandten Logik" (B\,76), die er im Vorwort als die Logik verkennend und entstellend kritisiert.
 
-Die Logik sei nämlich dadurch bestimmt, dass sie "nichts als die formalen Regeln alles Denkens [...] ausführlich darlegt und strenge beweiset." (B\,xiii\,f.) Das heißt für Kant, in der Logik hat "der Verstand es mit nichts weiter, als sich selbst und seiner Form zu tun" (ebd.). Kant geht davon aus, dass sich unser Denken in a priorisches und empirisches Denken unterteilen lässt und dass es in beiden Fällen (den gleichen) formalen Regeln unterworfen ist. Die Logik ist die Wissenschaft dieser formalen Regeln des Denkens oder die Selbstreflexion des Verstandes bzw. der Vernunft (vgl. B\,x), sie ist "reine Vernunftlehre" (B\,76). Deshalb nennt Kant die aristotelische Logik an anderer Stelle auch "formale Logik" (A131&#47;B170), eine Bezeichnung die sich bis heute gehalten hat. (vgl. Kant-Lexikon, Lemma *Logik*, S. 1422) Damit unterscheidet er sie von der "angewandten Logik" (B\,76), die er im Vorwort als die Logik verkennend und entstellend kritisiert.
+Die formale Logik bildet "nur den Vorhof der Wissenschaften" und dient zur Beurteilung von Kenntnissen (Aussagen über Welt?) aber nicht zu ihrer Erwerbung. Für diese sind die "eigentlich und objectiv so genannten Wissenschaften" zu konsultieren.
 
-Die formale Logik bildet "nur den Vorhof der Wissenschaften" und dient zur Beurteilung von Kenntnissen (Aussagen über Welt?) aber nicht zu ihrer Erwerbung. Für diese sind die "eigentlich und objectiv so genannten Wissenschaften" zu konsultieren. Damit die Wissenschaften vernünftig sein können, muss in ihnen "etwas a priori erkannt werden, und ihre Erkenntniß kann auf zweierlei Art auf ihren Gegenstand bezogen werden, entweder diesen und seinen Begriff (der anderweitig gegeben werden muß) bloß zu bestimmen, oder ihn auch wirklich zu machen. Die erste ist theoretische, die andere praktische Erkenntniß der Vernunft."
+Die Logik ist für Kant das erste Beispiel einer sicheren Wissenschaft, weil sie seit Aristoteles "keinen Schritt rückwärts hat tun dürfen" und "auch bis jetzt keinen Schritt vorwärts hat tun können, und also allem Ansehen nach geschlossen und vollendet zu sein scheint." (B\,viii) Förster [-@forster1998, 47] merkt kritisch an, dass "man spätestens seit Freges *Begriffsschrift* (1879) nicht mehr behaupten" kann, die Logik sei vollendet. Die Frage ist also, was unser heutiges Wissens für das Argument Kants im Bezug auf die Logik bedeutet. Hängt das, was Kant über die Logik aussagt, von seinem Narrativ ihrer Genese ab?
 
-- Objekte der Erkenntnis?
-- Verstand?
-- "berechtigt, ja verbunden"? soll heißen verpflichtet, berufen?
-- Wer ist mit "einige Neuere" gemeint?
-    - "psychologische Kapitel von den verschiedenen Erkenntniskräften"
-    - "metaphysische [Kapitel] über den Ursprung der Erkenntnis ..."
-    - "anthropologische [Kapitel] von Vorurteilen"
+Zusammenfassend: Vernunft in der Logik, bzw. logische Vernunft ist die Beschäftigung mit den formalen Regeln unseres Denkens, abstrahiert von psychologischen oder anthropologischen Erwägungen.
 
 > "Da gedachte bloß formale Logik von allem Inhalte der Erkenntnis (ob sie rein oder empirisch sei) abstrahiert, und sich bloß mit der Form des Denkens (der diskursiven Erkenntnis) überhaupt beschäftigt: so kann sie in ihrem analytischen Teile auch den Kanon für die Vernunft mit befassen, deren Form ihre sichere Vorschrift hat, die ohne die besondere Natur der dabei gebrauchten Erkenntnis in Betracht zu ziehen, a priori, durch bloße Zergliederung der Vernunfthandlungen in ihre Momente, eingesehen werden kann." (B\,170)
 
-An dieser Stelle verwendet Kant die Begriffe "Verstand" und "Vernunft" offensichtlich synonym, denn gleich im nächsten Satz ist davon die Rede, dass es für die *Vernunft* ungleich schwerer sei, "den sicheren Weg der Wissenschaft einzuschlagen", wenn sie im Gegensatz zur Logik sich nicht nur mit sich selbst sondern auch mit Objekten (der Erkenntnis?) auseinandersetzt. 
+Damit die Wissenschaften vernünftig sein können, muss in ihnen "etwas a priori erkannt werden, und ihre Erkenntniß kann auf zweierlei Art auf ihren Gegenstand bezogen werden, entweder diesen und seinen Begriff (der anderweitig gegeben werden muß) bloß zu bestimmen, oder ihn auch wirklich zu machen. Die erste ist theoretische, die andere praktische Erkenntniß der Vernunft." (B\,ix\,f.)
 
 ## 3.2 Mathematik
-- Kant vermutet eine Revolution der Denkart in der Geschichte der Mathematik, die allerdings nicht überliefert ist.
+Was ist die Leistung der Vernunft in der Mathematik? Hier beschäftigt sie sich nicht mehr mit sich selbst, sondern mit Objekten. Aber nicht mit Objekten der Erfahrung, sondern mit Begriffen, die durch Konstruktion der Vernunft a priori gewonnen werden. Kant behauptet nämlich, dass z.\,B. der Begriff des Dreiecks nicht dadurch gewonnen werden kann, indem man konkrete Dreiecke studiert, sondern indem man theoretisch von allen konkreten Eigenschaften wie Größe und Winkel abstrahiert. Interessanterweise können in der Mathematik empirische Objekte zur Erkenntnis verhelfen, aber nur insofern sie den Begriff in seiner Allgemeinheit ausdrücken. Kant meint, wenn ein Dreieck auf dem Papier dargestellt und so zu einer empirischen Entität wird, haben wir es bei der empirischen Anschauung die hier stattfindet, mit einer zu tun, die "nur auf die Handlung der Konstruktion des Begriffs" gerichtet ist und offensichtlich, obwohl empirisch, zugleich apriorisch ist. (vgl. A713&#47;B741)
+
 - der gleichschenklichte Triangel = Thales' Basiswinkelsatz ("Die Basiswinkel im gleichschenkligen Dreieck sind gleich") [vgl. @forster1998, 48]
-- nicht durch bloße Beobachtung lernen, sondern durch Konstruktion
-- "was er nach Begriffen selbst a priori hineindachte und darstellte"
-- "der Sache nichts beilegen"
 
+> "Die *philosophische* Erkenntnis ist die *Vernunfterkenntnis* aus *Begriffen*, die mathematische aus der *Konstruktion* der Begriffe. Einen Begriff aber *konstruieren*, heißt: die ihm korrespondierende Anschauung a priori darstellen. [...] So konstruiere ich einen Triangel, indem ich den diesem Begriffe entsprechenden Gegenstand, entweder durch bloße Einbildung, in der reinen, oder nach derselben auch auf dem Papier, in der empirischen Anschauung, beidemal aber völlig a priori, ohne das Muster dazu aus irgend einer Erfahrung geborgt zu haben, darstelle. Die einzelne hingezeichnete Figur ist empirisch, und dient gleichwohl den Begriff, unbeschadet seiner Allgemeinheit, auszudrücken, weil bei dieser empirischen Anschauung immer nur auf die Handlung der Konstruktion des Begriffs, welchem viele Bestimmungen, z.\,E. der Größe, der Seiten und der Winkel, ganz gleichgültig sind, gesehen, und also von diesen Verschiedenheiten, die den Begriff des Triangels nicht verändern, abstrahiert wird." (A713&#47;B741)
 
-> "[...] sondern durch das, was er nach Begriffen selbst a priori hineindachte und darstellete, (durch Konstruktion) hervorbringen müsse, und daß er, um sicher etwas a priori zu wissen, der Sache nichts beilegen müsse, als was aus dem notwendig folgte, was er seinem Begriffe gemäß selbst in sie gelegt hat." (B\,xii)
+Kant fragt, ob die mathematische Methode der Konstruktion mit der philosophischen Methode (die dogmatisch genannt werden müsste) identisch ist.
 
 > "Es liegt uns also viel daran, zu wissen: ob die Methode, zur apodiktischen Gewißheit zu gelangen, die man in der letzteren Wissenschaft *mathematisch* nennt, mit derjenigen einerlei sei, womit man eben dieselbe Gewißheit in der Philosophie sucht, und die daselbst *dogmatisch* genannt werden müßte." (A713&#47;B741)
 
-> "Die *philosophische* Erkenntnis ist die *Vernunfterkenntnis* aus *Begriffen*, die mathematische aus der *Konstruktion* der Begriffe. Einen Begriff aber *konstruieren*, heißt: die ihm korrespondierende Anschauung a priori darstellen. [...] So konstruiere ich einen Triangel, indem ich den diesem Begriffe entsprechenden Gegenstand, entweder durch bloße Einbildung, in der reinen, oder nach derselben auch auf dem Papier, in der empirischen Anschauung, beidemal aber völlig a priori, ohne das Muster dazu aus irgend einer Erfahrung geborgt zu haben, darstelle. Die einzelne hingezeichnete Figur ist empirisch, und dient gleichwohl den Begriff, unbeschadet seiner Allgemeinheit, auszudrücken, weil bei dieser empirischen Anschauung immer nur auf die Handlung der Konstruktion des Begriffs, welchem viele Bestimmungen, z.E. der Größe, der Seiten und der Winkel, ganz gleichgültig sind, gesehen, und also von diesen Verschiedenheiten, die den Begriff des Triangels nicht verändern, abstrahiert wird."
+Auch für die Mathematik schlägt Kant eine Genese vor: er schließt aus seinem Beispiel der Logik und den ihm verfügbaren Quellen, dass es in der Geschichte der Mathematik eine Revolution der Denkart gegeben haben muss, die allerdings nicht überliefert ist. (vgl. B\,xi\,f.)
 
 
 
@@ -135,15 +124,12 @@ An dieser Stelle verwendet Kant die Begriffe "Verstand" und "Vernunft" offensich
 > "Francis Bacon (Baron von Verulam), *Novum Organum*, das 1620 als zweiter Teil der großangelegten [...] *Instauratio Magna* erschien. [...] Der für Kant so zentrale Begriff der 'Revolution der Denkart' ist, genauso wie dessen Kontrastbegriff 'Herumtappen', diesem Werk entnommen (*Novum Organum*, a\,78: 'doctrinarum revolutionis')."
 
 
-
-## 3.4 Metaphysik
+# 4. Offene und Diskussionsfragen (~2 Min.)
 
 > "*Der Metaphysik*, einer ganz isolierten spekulativen Vernunfterkenntnis, die sich gänzlich über Erfahrungsbelehrung erhebt, und zwar durch bloße Begriffe (nicht wie Mathematik durch Anwendung derselben auf Anschauung), wo also Vernunft selbst ihr eigener Schüler sein soll, ist das Schicksal bisher noch so günstig nicht gewesen, daß sie den sichern Gang einer Wissenschaft einzuschlagen vermocht hätte;" (B\,xiv)
 
 Worin unterscheidet sich nun die Metaphysik von der formalen Logik? In der Logik hat "die Vernunft es" ja auch "nur mit sich selbst zu tun" (B\,x). Wie passt das zusammen?
 
-
-# 4. Offene und Diskussionsfragen (~2 Min.)
 
 # Bibliographie
 
