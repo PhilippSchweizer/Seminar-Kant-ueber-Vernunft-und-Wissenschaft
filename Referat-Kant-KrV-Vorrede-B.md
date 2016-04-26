@@ -36,8 +36,6 @@ Wie können "sich Vorstellungen a priori und doch wahrheitsfähig auf einen Gege
 - Galilei
 - Torricelli
 
-> "Die Vernunft muß mit ihren Prinzipien, nach denen allein übereinkommende Erscheinungen für Gesetze gelten können, in einer Hand, und mit dem Experiment, das sie nach jenen ausdachte, in der anderen, an die Natur gehen, zwar um von ihr belehrt zu werden, aber nicht in der Qualität eines Schülers, der sich alles vorsagen läßt, was der Lehrer will, sondern eines bestallten Richters, der die Zeugen nötigt auf die Fragen zu antworten, die er ihnen vorlegt." (B\,xiii)
-
 ## 9. & 10. Absatz (B\,xiv--xv) *Der Zustand der Metaphysik*
 - bloßes Herumtappen bis heute
 - Kampfplatz
@@ -47,6 +45,8 @@ Wie können "sich Vorstellungen a priori und doch wahrheitsfähig auf einen Gege
 > "Man versuche es daher einmal, ob wir nicht in den Aufgaben der Metaphysik damit besser fortkommen, daß wir annehmen, die Gegenstände müssen sich nach unserem Erkenntnis richten, welches so schon besser mit der verlangten Möglichkeit einer Erkenntnis derselben a priori zusammenstimmt, die über Gegenstände, ehe sie uns gegeben werden, etwas festsetzen soll. Es ist hiemit eben so, als mit den ersten Gedanken des Copernicus bewandt, ..." (21, B xvi) 
 
 ## 12. Absatz (B\,xviii--xxii) *Veränderung der Denkart lässt "die Möglichkeit einer Erkenntnis a priori ... erklären"*
+
+- es wird möglich, das Unbedingte ohne Widerspruch zu denken
 
 Problem: man kommt nie über die Grenze möglicher Erfahrungen hinaus. "Aber hierin liegt eben das Experiment einer Gegenprobe der Wahrheit" der Aussage, dass die Vernunfterkenntnis a priori "nur auf Erscheinungen gehe, die Sache an sich selbst dagegen zwar als für sich wirklich, aber von uns unerkannt, liegen lasse."
 
@@ -116,13 +116,37 @@ Kant fragt, ob die mathematische Methode der Konstruktion mit der philosophische
 
 > "Es liegt uns also viel daran, zu wissen: ob die Methode, zur apodiktischen Gewißheit zu gelangen, die man in der letzteren Wissenschaft *mathematisch* nennt, mit derjenigen einerlei sei, womit man eben dieselbe Gewißheit in der Philosophie sucht, und die daselbst *dogmatisch* genannt werden müßte." (A713&#47;B741)
 
-Auch für die Mathematik schlägt Kant eine Genese vor: er schließt aus seinem Beispiel der Logik und den ihm verfügbaren Quellen, dass es in der Geschichte der Mathematik eine Revolution der Denkart gegeben haben muss, die allerdings nicht überliefert ist. (vgl. B\,xi\,f.)
+Auch für die Mathematik hat Kant eine Vorstellung ihrer Genese: er schließt aus seinem Beispiel der Logik und den ihm verfügbaren Quellen, dass es in der Geschichte der Mathematik eine Revolution der Denkart gegeben haben muss, die allerdings nicht überliefert sei. (vgl. B\,xi\,f.)
 
 
 
 ## 3.3 Physik bzw. Naturwissenschaften
+
+> "Die Vernunft muß mit ihren Prinzipien, nach denen allein übereinkommende Erscheinungen für Gesetze gelten können, in einer Hand, und mit dem Experiment, das sie nach jenen ausdachte, in der anderen, an die Natur gehen, zwar um von ihr belehrt zu werden, aber nicht in der Qualität eines Schülers, der sich alles vorsagen läßt, was der Lehrer will, sondern eines bestallten Richters, der die Zeugen nötigt auf die Fragen zu antworten, die er ihnen vorlegt." (B\,xiii)
+
+Wie geht die Vernunft in den Naturwissenschaften vor, in denen sie es mit empirischer Anschauung zu tun hat? Wie kann sie hier zu gesicherten Erkenntnissen gelangen?
+Mit ihren eigenen Prinzipien und nach diesen ausgedachten Experimenten. Im Unterschied zur Logik beschäftigt sich die Vernunft hier nicht nur mit sich selbst, sondern auch mit empirischen Objekten und im Unterschied zur Mathematik kann sie ihren Gegenstand nicht konstruieren, sondern nur den Versuchsaufbau. Das Gerichtsgebäude und den Zeugenstand um es in Kants Metaphorik auszudrücken.
+
+1590 führte Galilei verschiedene Versuche zum freien Fall durch. Er hatte für das messen keine genauen Methoden zur Hand. Er behilft sich der schiefen Ebene: Zwei Kugeln mit der gleichen Masse rollen 
+es geht zu schnell --> bewegung verlangsamen --> die ebene als freier Fall in Zeitlupe --> gemessen mit einem Pendel --> auf der Suche nach einer mathematischen Formel für die stetige Beschleunigung --> 1. Entdeckung:
+
+1. Zeiteinheit (ZE) = 1 Wegeinheit (WE)
+2. ZE = 3 WE
+3. ZE = 5 WE
+4. ZE = 7 WE
+
+ --> numerische Progression. Daraus kann er die Fallgesetze ableiten.
+
 > "Francis Bacon (Baron von Verulam), *Novum Organum*, das 1620 als zweiter Teil der großangelegten [...] *Instauratio Magna* erschien. [...] Der für Kant so zentrale Begriff der 'Revolution der Denkart' ist, genauso wie dessen Kontrastbegriff 'Herumtappen', diesem Werk entnommen (*Novum Organum*, a\,78: 'doctrinarum revolutionis')."
 
+### 3.3.1 Wissenschaftshistorische Annahmen
+Aus dem Absatz 8 über die Naturwissenschaften geht nicht eindeutig hervor, wie genau Kant den Beginn der modernen Wissenschaften datiert.
+
+> "Und so hat sogar Physik die so vorteilhafte Revolution ihrer Denkart lediglich dem Einfalle zu verdanken, demjenigen, was die Vernunft selbst in die Natur hineinlegt, gemäß, dasjenige in ihr zu suchen, (nicht ihr anzudichten,) was sie von dieser lernen muß, und wovon sie für sich selbst nichts wissen würde." (B\,xii\,f.)
+
+Vielleicht schreibt er diesen Einfalle Galilei zu, oder schon Kopernikus, auf den wenige Absätze später rekurriert. Aber es wird deutlich, dass Kant eine *idealistische* Vorstellung über die Entwicklung der modernen Naturwissenschaften als dem oder den Einfällen großer Männer geschuldet. Es gibt eine riesige Literatur zur Frage der sogenannten wissenschaftlichen Revolution. Also über welchen Zeitraum sie sich erstreckt hat, was oder wer sie ausgelöst hat, in welchem Verhältnis soziale und individuelle (geistige) Faktoren für Entstehung und Entwicklung stehen, ob man überhaupt von einer *Revolution* sprechen kann, warum bzw. ob sie auf Europa beschränkt war usw.
+
+Der Begriff der wissenschaftlichen Revolution wurde in der ersten Hälfte des 20. Jahrhunderts von Alexandre Koyré in die wissenschaftstheoretische und -historische Diskussion eingebracht und in der Folge von Butterfield in seinem WErk *The Origins of Modern Science, 1300-1800* popularisiert. Ähnlich wie Kant fokusiert er seine Analyse auf Galilei und behauptet, dass es nicht der experimentelle oder empirische Charakter der Entdeckungen Galileis und auf ihn aufbauend Newtons war, sondern ein Perspektivenwechsel und ein Wandel der theoretischen Auffassung von Welt.
 
 # 4. Offene und Diskussionsfragen (~2 Min.)
 
@@ -130,6 +154,7 @@ Auch für die Mathematik schlägt Kant eine Genese vor: er schließt aus seinem 
 
 Worin unterscheidet sich nun die Metaphysik von der formalen Logik? In der Logik hat "die Vernunft es" ja auch "nur mit sich selbst zu tun" (B\,x). Wie passt das zusammen?
 
+@kant1998
 
 # Bibliographie
 

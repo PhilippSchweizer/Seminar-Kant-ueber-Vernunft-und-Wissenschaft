@@ -1,5 +1,5 @@
 ---
-title: Referat zur Vorrede zur zweiten Auflage der Kritik der reinen Vernunft
+title: Handout zum Referat "Die Vorrede zur zweiten Auflage der Kritik der reinen Vernunft"
 author: Philipp Schweizer
 date: 2016-04-26
 lang: de-DE
@@ -29,18 +29,21 @@ header-includes:
 
 # Zentrale Zitate
 
+Kant über die wissenschaftliche Methode
+
 > "Die Vernunft muß mit ihren Prinzipien, nach denen allein übereinkommende Erscheinungen für Gesetze gelten können, in einer Hand, und mit dem Experiment, das sie nach jenen ausdachte, in der anderen, an die Natur gehen, zwar um von ihr belehrt zu werden, aber nicht in der Qualität eines Schülers, der sich alles vorsagen läßt, was der Lehrer will, sondern eines bestallten Richters, der die Zeugen nötigt auf die Fragen zu antworten, die er ihnen vorlegt." (B\,xiii)
 
+Die Kopernikanische Wende in der Philosophie
 
 > "Man versuche es daher einmal, ob wir nicht in den Aufgaben der Metaphysik damit besser fortkommen, daß wir annehmen, die Gegenstände müssen sich nach unserem Erkenntnis richten, welches so schon besser mit der verlangten Möglichkeit einer Erkenntnis derselben a priori zusammenstimmt, die über Gegenstände, ehe sie uns gegeben werden, etwas festsetzen soll. Es ist hiemit eben so, als mit den ersten Gedanken des Copernicus bewandt, [...]" (B\,xvi) 
-
-# Verständnisfragen
-
-# Seminardiskussion
 
 
 # Bibliographie
 
+Förster, Eckart. 1998. "Die Vorreden". In Immanuel Kant, Kritik der reinen Vernunft, herausgegeben von Georg Mohr und Marcus Willaschek:37–55. Klassiker Auslegen (17/18).
+Berlin: Akademie Verlag.
 
+Kant, Immanuel. 1998. Kritik der reinen Vernunft. Herausgegeben von Jens Timmermann.
+Philosophische Bibliothek (505). Hamburg: Meiner.
 
 
